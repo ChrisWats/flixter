@@ -73,3 +73,4 @@ gem 'carrierwave', '~> 2.0'
 gem 'carrierwave-aws'
 gem "figaro"
 gem "fog-aws"
+gem 'stripe'
